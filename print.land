@@ -1,6 +1,0 @@
-PRINT(1*1) -> int yazdırdı
-PRINT(1*2,5) -> float yazdırdı
-PRINT(1) -> işlemsiz de olabilir.
-PRINT("STR türünde değer yazdırdı.")
-
-# Land programming language
