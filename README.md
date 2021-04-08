@@ -1,6 +1,6 @@
-# Examples (Örnekler)
-Bu kısımda Land programlama dili ile yapılan örnek projeler bulunur. Sizde yaptığınız projeleri burda yayınlayarak Land programlama diline katkıda bulunabilirsiniz
+# Examples
+In this section, there are sample projects made with the Land programming language. You can contribute to the Land programming language by publishing your projects here.
 
-Yaptığınız örnekler bir kaç gün, 1 gün veya daha uzun veya daha kısa bir sürede incelenebilir, anlayışınız için teşekkürler.
+Your samples can be reviewed in a few days, 1 day or longer or less, thanks for your understanding.
 
 Copyright © 2021 By Mikisoft - Yusuf Emre Karagül
