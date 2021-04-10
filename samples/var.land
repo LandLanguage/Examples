@@ -1,0 +1,2 @@
+VAR sample = 19
+  PRINT sample
