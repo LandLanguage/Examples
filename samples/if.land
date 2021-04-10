@@ -1,0 +1,3 @@
+VAR age = 19
+ IF age >= 15 THEN 21
+# print to 21

@@ -1,3 +1,0 @@
-VAR age = 19
- IF age >= 20 THEN 40 ELSE 20
-# print to 20
