@@ -1,0 +1,3 @@
+VAR sample = 20
+ IF sample == 20 THEN 21
+# print to 21
