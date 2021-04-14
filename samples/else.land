@@ -1,3 +1,2 @@
-VAR sample = 20
- IF sample == 19 THEN 21 ELSE 15
-# print to 15
+IF 5 == 6 THEN 123 ELSE 12345
+# print to 12345
