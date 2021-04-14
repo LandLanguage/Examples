@@ -1,2 +1,5 @@
 RUN("example.land")
 # run to example.land
+
+# sample2:
+# RUN("land-file.land")
