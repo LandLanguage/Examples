@@ -1,2 +1,2 @@
 # Land programming language sample function.
-FUN join(elements, separator)
+FUN join(elements, separator) # join function
