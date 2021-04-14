@@ -1,33 +1,31 @@
 # This is a very useful piece of software
 
-FUN oopify(prefix) -> prefix + "oop"
+FUN oopify(prefix) -> prefix + "oop" # oopify function
 
-FUN join(elements, separator)
+FUN join(elements, separator) # join function
 	VAR result = ""
 	VAR len = LEN(elements)
 
 	FOR i = 0 TO len THEN
-		VAR result = result + elements/i
+		VAR result = result + elements/i # result variable
 		IF i != len - 1 THEN VAR result = result + separator
-	END
+	END # end
 
 	RETURN result
-END
+END # end
 
-FUN map(elements, func)
+FUN map(elements, func) # map function
 	VAR new_elements = []
 
 	FOR i = 0 TO LEN(elements) THEN
 		APPEND(new_elements, func(elements/i))
-	END
+	END # end
 
-	RETURN new_elements
-END
+	RETURN new_elements # return to new_elements
+END # end
 
-PRINT("Greetings universe!")
+PRINT("Greetings universe!") # print to Greetings universe!
 
 FOR i = 0 TO 5 THEN
 	PRINT(join(map(["l", "sp"], oopify), ", "))
-END
-
-# Land programming language
+END # end
