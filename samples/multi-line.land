@@ -1,3 +1,5 @@
 PRINT ("Hello"); PRINT ("World!") # Top line Hello, bottom line World! came out.
 IF 5 == 5 THEN; PRINT ("Hello"); PRINT ("World!") # If five equals five on the top row Hello, the bottom line World! He will take out.
 IF 5 == 5 THEN; PRINT ("Hello"); PRINT ("World!") ELSE PRINT ("An error occurred!") # If five equals five on the top line Hello, the bottom line is World! will not be read An error occurred! It will print.
+# Land programming language
+# Land-Team Yusuf Emre Karagül
