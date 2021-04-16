@@ -4,4 +4,4 @@ In this section, there are sample projects made with the Land programming langua
 Your samples can be reviewed in a few days, 1 day or longer or less, thanks for your understanding.
 
 Copyright © 2021 Land-Team
-By Mikisoft
+- Yusuf Emre Karagül
