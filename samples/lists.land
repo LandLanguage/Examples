@@ -1,3 +1,9 @@
-# land programming language sample lists
+# sample lists
 [1, 2, 3] # print to [1, 2, 3]
 [1, 2, 3] + 4 # print to [1, 2, 3, 4]
+VAR a  = 4
+[1, 2, 3, a] # print to [1, 2, 3, 4]
+[1, 2, 3] + a # print to [1, 2, 3, 4]
+
+# Land programming language
+# Land-Team Yusuf Emre Karagül
