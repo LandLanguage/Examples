@@ -1,0 +1,5 @@
+"Hello world!" # sample land string
+"Hello" + "world!" # print to Hello world!
+"Hello " * 3 # print to Hello Hello Hello
+
+# Land-Team Yusuf Emre Karagül
