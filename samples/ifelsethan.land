@@ -1,0 +1,6 @@
+VAR a = 5
+# a degiskenimizi 5 yaptik
+IF a == 5 THEN PRINT("a 5'e esit") ELSE PRINT("a 5e esit degil")
+# a 5'e esit yazdirir
+
+# Land Programming Language 
